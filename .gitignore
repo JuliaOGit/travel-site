@@ -1,4 +1,6 @@
 # Numerous always-ignore extensions
+.idea/
+*.iml
 *.diff
 *.err
 *.orig
